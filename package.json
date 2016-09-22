@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/dgbholdings/bitcore-message.git#ce3dd82348af1091d6bd91e5d60fe3b55ff4c1ac"
   },
   "dependencies": {
     "bitcore-lib": "^0.13.7"
